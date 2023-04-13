@@ -1,0 +1,27 @@
+body {
+    background-color: aqua;
+}
+.fa{
+    color: blue;
+}
+.box-inside{
+    background-color: aliceblue;
+    padding: 60px 5px;
+    text-align: center;
+    margin: 20px 10px;
+    
+}
+
+span{
+    font-size: 15px;
+}
+.box{
+    padding: 60px;
+}
+.content{
+    margin: 20px 0px;
+}
+a{
+    border-bottom: 1px solid blue;
+}
+
